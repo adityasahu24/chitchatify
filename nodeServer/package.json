@@ -11,5 +11,6 @@
   "dependencies": {
     "nodemon": "^2.0.12",
     "socket.io": "^2.3.0"
-  }
+  },
+  "devDependencies": {}
 }
